@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://jpaulfernandez.github.io/wrinkles/</id>
+  <id>https://jpaulfernandez.github.io/float/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-01-27T22:35:57+08:00</updated>
+  <updated>2023-01-27T22:41:36+08:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>https://jpaulfernandez.github.io/wrinkles/</uri>
+    <uri>https://jpaulfernandez.github.io/float/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://jpaulfernandez.github.io/wrinkles/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://jpaulfernandez.github.io/float/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://jpaulfernandez.github.io/wrinkles/"/>
+    href="https://jpaulfernandez.github.io/float/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 your_full_name </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>

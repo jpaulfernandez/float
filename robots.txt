@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://jpaulfernandez.github.io/wrinkles/sitemap.xml
+Sitemap: https://jpaulfernandez.github.io/float/sitemap.xml

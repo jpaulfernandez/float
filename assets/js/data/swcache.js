@@ -43,7 +43,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'jpaulfernandez.github.io/wrinkles',
+    'jpaulfernandez.github.io/float',
 
     
 
